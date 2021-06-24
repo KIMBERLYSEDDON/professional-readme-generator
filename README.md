@@ -16,10 +16,13 @@ Answer each prompt and when done the console will log "Success!!". To access/vie
 
 Answer each question prompted as thoroughly as possible to ensure a high quality product. Click the link below for a walk through of the process:
 
-
-[walkthrough video]("https://drive.google.com/file/d/1XfrHDjea7dCnIv3X1pOgzqxzu_J6_KQD/view")
-
 https://drive.google.com/file/d/1XfrHDjea7dCnIv3X1pOgzqxzu_J6_KQD/view
+
+README made in walk-through video:
+
+![screenshot of example readme](images/screenshot-ex-readme.png)
+
+
 
 
 ## Credits 
