@@ -1,8 +1,8 @@
 
-  # hello world
+  # my cool project
   ![MIT](https://img.shields.io/badge/license-MIT-success)
   ## Description
-  jdniohgtvrndkojnmorgtlkdnolrskjdtnglfj,btrjlgfvnlkrjgbstfv
+  my application is verrrrry cool. it's useful and solves a problem!!! super great all around. 
 
   ## Table of Contents 
   - [Installation](#installation)
@@ -12,23 +12,23 @@
   - [Questions](#questions)
 
   ## Installation 
-  kjdngfvkrntdgvcrhubdgifkhebnsikfdbnrd
+  just go to the link and that's that. real nifty like that. 
 
   ## Usage
-  dirhnfoerushbfnodeiskhbgkjfslejdfnieslrf
+  I'll show you in a little gif I'll be adding later, but basically it's for a really cool thing and it's super straightforward and easy
 
   ## License 
   This application is covered under the MIT license.
 
   ## How to Contribute
-  fhniuerkshnfjodweiusjdociehriugfherd
+  just email me and let me know what you'd like to add and i'll consider it.
 
   ## Tests
-  
+  npm test
 
   ## Questions?
   GitHub: 
-  [kimberlyseddon](https://github.com/kimberlyseddon)
+  [KIMBERLYSEDDON](https://github.com/KIMBERLYSEDDON)
   Email: 
-  kim@gmail.com
+  SeddonKimberly17@gmail.com
 

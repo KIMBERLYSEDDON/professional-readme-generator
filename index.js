@@ -1,9 +1,7 @@
-// TODO: Include packages needed for this application
 const fs = require("fs");
 const inquirer = require("inquirer");
 const markDown = require('./utils/generateMarkdown')
 
-// TODO: Create an array of questions for user input
 const questions = [
   {
     type: "input",
@@ -41,10 +39,9 @@ const questions = [
     name: "contributing",
   },
   {
-    type: "list",
+    type: "input",
     message: "What command should be run to tun tests?",
     name: "tests",
-    choices: [""],
   },
   {
     type: "list",
@@ -59,9 +56,3 @@ inquirer.prompt(questions).then((data) => {
     err ? console.error(err) : console.log("Success!")
   );
 });
-
-// // TODO: Create a function to initialize app
-// function init() {}
-
-// // Function call to initialize app
-// init();
